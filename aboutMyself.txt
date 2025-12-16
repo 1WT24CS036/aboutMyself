@@ -1,17 +1,9 @@
-<<<<<<< HEAD
-Tittle:Ms
-=======
 Title:Ms
->>>>>>> feature-branch
 Full Name:Tehreem Tarannum
 USN:1WT24CS036
 Semester:Third
 Section:A
 Branch:Computer Science Engineering
 Year of Admission:2024
-<<<<<<< HEAD
 Collage Name:GITW
 
-=======
-College Name:GITW
->>>>>>> feature-branch
