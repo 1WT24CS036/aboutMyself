@@ -9,4 +9,8 @@ Collage Name:GITW
 College Name:GITW
 SSLC:Holy Mariam Convent
 P.U.C:SSMRV PU Collage
+<<<<<<< HEAD
 UG Degree:2nd year B.E Computer Science Engineering
+=======
+UG Degree:2nd year B.E Computer Science Engineering 
+>>>>>>> b22af75 (Updated the contents of aboutMyself.txt file successfully)
