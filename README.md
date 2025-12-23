@@ -7,4 +7,4 @@ Subject Name:Project Mangement with GIT
 Subject Code:BCS358C
 Academic Year:2025-26
 Mobile No: 9964239532
-Email ID:tehreemtarannum5@gmail.com
+My Date of Joining to GITW:24-sep-2025
